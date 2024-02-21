@@ -19,7 +19,7 @@ The simulation models the behavior of groups and single riders queuing to ride t
 1. Clone the repository to your local machine (adjust the command with the actual repository URL):
 
     ```bash
-    git clone 
+    git clone https://github.com/LarissaBerkelder/BerkelderSemaphores.git
     ```
 
 2. Navigate to the project directory:
